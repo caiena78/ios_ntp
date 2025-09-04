@@ -1,0 +1,1 @@
+Ansible Role to set NTP Servers, the ntp servers comes from netbox

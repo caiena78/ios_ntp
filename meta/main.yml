@@ -1,0 +1,12 @@
+---
+galaxy_info:
+  license: MIT
+  min_ansible_version: "1.00"
+  role_name: ios_ntp
+  
+  author: Chad Aiena
+  description: Ansible Role to set NTP Servers, the ntp servers comes from netbox
+  company: Sapphire Health
+# collections: []
+# dependencies: []
+...
