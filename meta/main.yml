@@ -5,7 +5,7 @@ galaxy_info:
   role_name: ios_ntp
   
   author: Chad Aiena
-  description: Ansible Role to set NTP Servers, the ntp servers comes from netbox
+  description: Ansible Role to set NTP Servers
   company: Sapphire Health
 # collections: []
 # dependencies: []
